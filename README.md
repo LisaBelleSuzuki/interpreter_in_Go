@@ -1,1 +1,1 @@
-# interpreter_by_Go
+# interpreter_in_Go
